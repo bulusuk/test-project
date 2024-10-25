@@ -1,1 +1,1 @@
-# test-project.github.io
+# test-project
