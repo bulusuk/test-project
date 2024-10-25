@@ -13,3 +13,5 @@ For more information about Markdown syntax, see the [Markdown Cheat Sheet](https
 This is a new line that was added to the md-file i.e., markdown-file.
 
 More updates to practice.
+
+This is a new feature that goes into `my_first_branch` and then will be `merged` in the `main` branch.
