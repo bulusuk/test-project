@@ -17,3 +17,5 @@ More updates to practice.
 This is a new feature that goes into `my_first_branch` and then will be `merged` in the `main` branch.
 
 This is another change in my `my_first_branch`.
+
+This is the third change in my `my_first_branch`.
